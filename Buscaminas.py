@@ -1,1 +1,2 @@
 print("Buscaminas")
+print ("Hola")
