@@ -1,2 +1,2 @@
 print("Buscaminas")
-print ("Hola")
+
